@@ -14,3 +14,4 @@ Quiz interativo com **10 perguntas** sobre segurança digital, explicações e p
 
 ## Sugestão para a oficina Git
 Use `git init`, `git add .`, `git commit -m "Cria CyberQuiz IFCE"` e registre um novo commit depois que os alunos personalizarem uma pergunta ou uma cor. Nunca coloque senhas reais no projeto.
+.
