@@ -1,4 +1,4 @@
-:root { font-family: system-ui, Arial, sans-serif; color: #eef5ff; background: #0b1224; }
+:root { font-family: system-ui, Arial, sans-serif; color: #eef5ff; background: #1e3a5f; }
 * { box-sizing: border-box; }
 body { min-height: 100vh; margin: 0; display: grid; place-items: center; padding: 20px; }
 .card { width: min(100%, 620px); padding: 32px; border: 1px solid #344564; border-radius: 22px; background: #17233c; box-shadow: 0 20px 60px #0005; }
